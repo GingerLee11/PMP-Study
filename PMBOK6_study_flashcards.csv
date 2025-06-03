@@ -272,21 +272,21 @@ PMBOK6 - Core Terms,"{{c1::Activity attributes}} extend the description of activ
 PMBOK6 - Core Terms,What is the purpose of activity attributes?,To describe components related to an activity,KA::Schedule PG::Planning, Basic,
 PMBOK6 - Core Terms,{{c1::Milestone list}} identifies significant events and indicates if they are mandatory or optional.,Milestone list,KA::Schedule PG::Planning, Cloze,
 PMBOK6 - Core Terms,How long is a milestone's duration in a schedule?,Zero,KA::Schedule PG::Planning, Basic,
-PMBOK6 - Core Terms,"{{c1::Finish-to-start (FS)}} means the successor cannot start until the predecessor finishes.","Finish-to-start (FS)",KA::Schedule PG::Planning,Cloze
-PMBOK6 - Core Terms,"{{c1::Finish-to-finish (FF)}} means the successor cannot finish until the predecessor finishes.","Finish-to-finish (FF)",KA::Schedule PG::Planning,Cloze
-PMBOK6 - Core Terms,"{{c1::Start-to-start (SS)}} means the successor cannot start until the predecessor starts.","Start-to-start (SS)",KA::Schedule PG::Planning,Cloze
-PMBOK6 - Core Terms,"{{c1::Start-to-finish (SF)}} means the successor cannot finish until the predecessor starts.","Start-to-finish (SF)",KA::Schedule PG::Planning,Cloze
-PMBOK6 - Core Terms,"Editing cannot finish until writing finishes. What relationship is this?","Finish-to-finish",KA::Schedule PG::Planning,Basic
-PMBOK6 - Core Terms,"Pouring concrete and leveling must start at the same time. What relationship is this?","Start-to-start",KA::Schedule PG::Planning,Basic
-PMBOK6 - Core Terms,"You cannot shut down the old system until the new one starts. What relationship is this?","Start-to-finish",KA::Schedule PG::Planning,Basic
-PMBOK6 - Core Terms,"{{c1::Mandatory dependencies}} are legally or contractually required, or inherent to the work.","Mandatory dependencies",KA::Schedule PG::Planning,Cloze
-PMBOK6 - Core Terms,"{{c1::Discretionary dependencies}} are based on best practices or specific project decisions.","Discretionary dependencies",KA::Schedule PG::Planning,Cloze
-PMBOK6 - Core Terms,"{{c1::External dependencies}} are outside the project team's control.","External dependencies",KA::Schedule PG::Planning,Cloze
-PMBOK6 - Core Terms,"{{c1::Internal dependencies}} are within the control of the project team.","Internal dependencies",KA::Schedule PG::Planning,Cloze
-PMBOK6 - Core Terms,"A {{c1::lead}} is the amount of time a successor activity can be advanced with respect to a predecessor activity.","lead",KA::Schedule PG::Planning,Cloze
-PMBOK6 - Core Terms,"A {{c1::lag}} is the amount of time a successor activity will be delayed with respect to a predecessor activity.","lag",KA::Schedule PG::Planning,Cloze
-PMBOK6 - Core Terms,"Landscaping scheduled task starts 2 weeks before the punch list  is complete. What is this an example of?","Lead",KA::Schedule PG::Planning,Basic
-PMBOK6 - Core Terms,"Editing scheduled task starts 15 days after writing scheduled task starts. What is this an example of?","Lag",KA::Schedule PG::Planning,Basic
+PMBOK6 - Core Terms,"{{c1::Finish-to-start (FS)}} means the successor cannot start until the predecessor finishes.","Finish-to-start (FS)",KA::Schedule PG::Planning,Cloze,
+PMBOK6 - Core Terms,"{{c1::Finish-to-finish (FF)}} means the successor cannot finish until the predecessor finishes.","Finish-to-finish (FF)",KA::Schedule PG::Planning,Cloze,
+PMBOK6 - Core Terms,"{{c1::Start-to-start (SS)}} means the successor cannot start until the predecessor starts.","Start-to-start (SS)",KA::Schedule PG::Planning,Cloze,
+PMBOK6 - Core Terms,"{{c1::Start-to-finish (SF)}} means the successor cannot finish until the predecessor starts.","Start-to-finish (SF)",KA::Schedule PG::Planning,Cloze,
+PMBOK6 - Core Terms,"Editing cannot finish until writing finishes. What relationship is this?","Finish-to-finish",KA::Schedule PG::Planning,Basic,
+PMBOK6 - Core Terms,"Pouring concrete and leveling must start at the same time. What relationship is this?","Start-to-start",KA::Schedule PG::Planning,Basic,
+PMBOK6 - Core Terms,"You cannot shut down the old system until the new one starts. What relationship is this?","Start-to-finish",KA::Schedule PG::Planning,Basic,
+PMBOK6 - Core Terms,"{{c1::Mandatory dependencies}} are legally or contractually required, or inherent to the work.","Mandatory dependencies",KA::Schedule PG::Planning,Cloze,
+PMBOK6 - Core Terms,"{{c1::Discretionary dependencies}} are based on best practices or specific project decisions.","Discretionary dependencies",KA::Schedule PG::Planning,Cloze,
+PMBOK6 - Core Terms,"{{c1::External dependencies}} are outside the project team's control.","External dependencies",KA::Schedule PG::Planning,Cloze,
+PMBOK6 - Core Terms,"{{c1::Internal dependencies}} are within the control of the project team.","Internal dependencies",KA::Schedule PG::Planning,Cloze,
+PMBOK6 - Core Terms,"A {{c1::lead}} is the amount of time a successor activity can be advanced with respect to a predecessor activity.","lead",KA::Schedule PG::Planning,Cloze,
+PMBOK6 - Core Terms,"A {{c1::lag}} is the amount of time a successor activity will be delayed with respect to a predecessor activity.","lag",KA::Schedule PG::Planning,Cloze,
+PMBOK6 - Core Terms,"Landscaping scheduled task starts 2 weeks before the punch list  is complete. What is this an example of?","Lead",KA::Schedule PG::Planning,Basic,
+PMBOK6 - Core Terms,"Editing scheduled task starts 15 days after writing scheduled task starts. What is this an example of?","Lag",KA::Schedule PG::Planning,Basic,
 PMBOK6 - Core Terms,What is the purpose of the Sequence Activities process in project schedule management?,Define logical sequence of work,KA::Schedule PG::Planning ECO::Process,Basic,
 PMBOK6 - Core Terms,What is the key benefit of the Sequence Activities process?,Efficiency in sequencing work,KA::Schedule PG::Planning ECO::Business,Basic,
 PMBOK6 - Core Terms,What output visually represents logical relationships between project activities?,Project schedule network diagram,KA::Schedule PG::Planning ECO::Process,Basic,
@@ -380,7 +380,7 @@ PMBOK6 - Core Terms,"What tailoring factor addresses iterative methods?","Use of
 PMBOK6 - Core Terms,"What tailoring factor relates to policies and oversight?","Governance",KA::Cost ECO::Governance,Basic,
 PMBOK6 - Core Terms,"Why might detailed cost estimates be avoided in adaptive projects?","Frequent changes",KA::Cost ECO::Agile,Basic,
 PMBOK6 - Core Terms,"How are costs forecasted in high-variability projects?","Lightweight estimation",KA::Cost ECO::Agile,Basic,
-PMBOK6 - Core Terms,"In high-variability but budget-constrained projects, what is adjusted?","Scope and schedule",KA::Cost ECO::Agile,Basic
+PMBOK6 - Core Terms,"In high-variability but budget-constrained projects, what is adjusted?","Scope and schedule",KA::Cost ECO::Agile,Basic,
 PMBOK6 - Core Terms,"What is the purpose of the Plan Cost Management process?","Define how costs are estimated, budgeted, managed, monitored, and controlled",KA::Cost PG::Planning,Basic,
 PMBOK6 - Core Terms,"What is the key benefit of Plan Cost Management?","Provides guidance and direction for cost management",KA::Cost PG::Planning,Basic,
 PMBOK6 - Core Terms,"How often is the Plan Cost Management process performed?","Once or at predefined points",KA::Cost PG::Planning,Basic,
@@ -400,7 +400,7 @@ PMBOK6 - Core Terms,"What is the WBS element used in cost accounting?","Control 
 PMBOK6 - Core Terms,"What are control thresholds?","Allowed cost variance limits",KA::Cost PG::Planning,Basic,
 PMBOK6 - Core Terms,"What do performance measurement rules in the cost plan establish?","EVM techniques and tracking",KA::Cost PG::Planning,Basic,
 PMBOK6 - Core Terms,"What is defined by the cost management plan for communication?","Reporting formats",KA::Cost PG::Planning,Basic,
-PMBOK6 - Core Terms,"What additional detail might be included in the cost plan?","Funding choices, currency fluctuation procedures",KA::Cost PG::Planning,Basic
+PMBOK6 - Core Terms,"What additional detail might be included in the cost plan?","Funding choices, currency fluctuation procedures",KA::Cost PG::Planning,Basic,
 PMBOK6 - Core Terms,What is the purpose of the Estimate Costs process?,Develop cost approximation for project resources,KA::Cost PG::Planning,Basic,
 PMBOK6 - Core Terms,What is the key benefit of Estimate Costs?,Determines monetary resources required,KA::Cost PG::Planning,Basic,
 PMBOK6 - Core Terms,How often is Estimate Costs performed?,Periodically as needed,KA::Cost PG::Planning,Basic,
@@ -516,11 +516,11 @@ PMBOK6 - Core Terms,{{c1::Cost of conformance}} includes prevention and appraisa
 PMBOK6 - Core Terms,{{c1::Cost of nonconformance}} includes internal and external failure costs.,Cost of nonconformance,KA::Quality PG::Planning,Cloze,
 PMBOK6 - Core Terms,Money spent during the project to avoid failures,"Cost of Conformance",KA::Quality PG::Planning,Basic,
 PMBOK6 - Core Terms,Money spent during and after the project because of failures,"Cost of Nonconformance",KA::Quality PG::Planning,Basic,
-PMBOK6 - Core Terms,"The Manage Quality process is also referred to as {{c1::quality assurance}} in project management.","","KA::Quality PG::Executing","Cloze"
-PMBOK6 - Core Terms,"A {{c1::cause-and-effect diagram}} is also known as a fishbone or Ishikawa diagram.","","KA::Quality PG::Executing","Cloze"
-PMBOK6 - Core Terms,"The purpose of {{c1::quality audits}} is to identify good practices, gaps, and provide improvement recommendations.","","KA::Quality PG::Executing","Cloze"
-PMBOK6 - Core Terms,"{{c1::Scatter diagrams}} show the relationship between two variables and can demonstrate potential correlations.","","KA::Quality PG::Executing","Cloze"
-PMBOK6 - Core Terms,"{{c1::Root cause analysis}} identifies the underlying cause of a variance, defect, or risk.","","KA::Quality PG::Executing","Cloze"
+PMBOK6 - Core Terms,"The Manage Quality process is also referred to as {{c1::quality assurance}} in project management.","","KA::Quality PG::Executing",Cloze,
+PMBOK6 - Core Terms,"A {{c1::cause-and-effect diagram}} is also known as a fishbone or Ishikawa diagram.","","KA::Quality PG::Executing",Cloze,
+PMBOK6 - Core Terms,"The purpose of {{c1::quality audits}} is to identify good practices, gaps, and provide improvement recommendations.","","KA::Quality PG::Executing",Cloze,
+PMBOK6 - Core Terms,"{{c1::Scatter diagrams}} show the relationship between two variables and can demonstrate potential correlations.","","KA::Quality PG::Executing",Cloze,
+PMBOK6 - Core Terms,"{{c1::Root cause analysis}} identifies the underlying cause of a variance, defect, or risk.","","KA::Quality PG::Executing",Cloze,
 PMBOK6 - Core Terms,What does 'Design for X' (DfX) refer to in the Manage Quality process?,"Technical guidelines for optimizing design aspects like reliability, cost, and usability",KA::Quality PG::Executing,Basic,
 PMBOK6 - Core Terms,What are some areas that 'X' can represent in 'Design for X'?,"Reliability, assembly, manufacturing, cost, usability, safety, quality",KA::Quality PG::Executing,Basic,
 PMBOK6 - Core Terms,"Design for X can result in cost reduction, {{c1::quality improvement}}, better performance, and customer satisfaction.",,KA::Quality PG::Executing,Cloze,
