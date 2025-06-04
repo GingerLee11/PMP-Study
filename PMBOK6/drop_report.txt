@@ -1,5 +1,3 @@
-Dropped 43 cards due to overlong_back
-Dropped 0 cards due to duplicate_front
-Dropped 0 cards due to identical_front_back
-Kept 871 cards
-Flagged 93 cards for review
+Dropped 105 cards due to back > 80 chars
+Kept 738 cards
+Flagged 153 cards for review

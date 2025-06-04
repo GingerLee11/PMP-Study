@@ -1,94 +1,154 @@
-deck,front,back,tags,note_type,media
-PMBOK6 - Core Terms,What is the purpose of the benefits management plan?,To document how and when the benefits of the project will be delivered and measured.,KA::Integration ECO::Business, Basic,
-PMBOK6 - Core Terms,Who are stakeholders in a project?,"Individuals or organizations affected by the project, or who can affect the project.",KA::Stakeholder ECO::People, Basic,
-PMBOK6 - Core Terms,Name two examples of internal EEFs.,Organizational culture; Infrastructure; IT systems; Employee capabilities,KA::Integration ECO::Business, Basic,
-PMBOK6 - Core Terms,What are three dimensions of complexity in projects?,"System behavior, Human behavior, Ambiguity",KA::Integration,Basic,
-PMBOK6 - Core Terms,What is the purpose of the Scope Management Plan?,"It defines how the scope will be defined, developed, monitored, controlled, and validated.",KA::Scope PG::Planning ECO::Process,Basic,
-PMBOK6 - Core Terms,What is the goal of the Cost Management Plan?,"To define how project costs will be planned, structured, and controlled.",KA::Cost PG::Planning ECO::Process,Basic,
-PMBOK6 - Core Terms,What is described in the Communications Management Plan?,"It explains how, when, and by whom project information will be administered and disseminated.",KA::Communication PG::Planning ECO::People,Basic,
-PMBOK6 - Core Terms,What is the Scope Baseline used for?,"It includes the approved scope statement, WBS, and WBS dictionary, used as a comparison basis.",KA::Scope PG::Planning ECO::Process,Basic,
-PMBOK6 - Core Terms,What is the Schedule Baseline?,The approved version of the project schedule model used to measure actual progress.,KA::Schedule PG::Planning ECO::Process,Basic,
-PMBOK6 - Core Terms,What is the Cost Baseline?,"The approved, time-phased budget used to compare actual project spending.",KA::Cost PG::Planning ECO::Process,Basic,
-PMBOK6 - Core Terms,You are asked to report the overall health of the project to senior stakeholders. What document should you prepare?,"Work performance reports, which compile analyzed performance data for decision-making.",KA::Integration PG::Monitoring ECO::Business,Basic,
-PMBOK6 - Core Terms,A project team identifies a deviation from the schedule baseline. What should be done before updating the schedule?,Submit a change request and perform impact analysis via Monitor and Control Project Work.,KA::Integration PG::Monitoring ECO::Process,Basic,
-PMBOK6 - Core Terms,"During execution, a project team discovers a need to adjust the project schedule due to a new stakeholder requirement. What must the project manager do before implementing this change?",Submit a formal change request for review through the Perform Integrated Change Control process.,KA::Integration PG::Monitoring_Control ECO::Process,Basic,
-PMBOK6 - Core Terms,What is the purpose of the Close Project or Phase process?,Finalize all activities,KA::Integration PG::Closing ECO::Process,Basic,
-PMBOK6 - Core Terms,What is the purpose of the Plan Scope Management process?,"To define how project and product scope will be planned, defined, validated, and controlled.",KA::Scope PG::Planning ECO::Process,Basic,
-PMBOK6 - Core Terms,What is the key benefit of Plan Scope Management?,Provides structure and guidance for managing scope.,KA::Scope PG::Planning ECO::Process,Basic,
-PMBOK6 - Core Terms,What is the key benefit of the Define Scope process?,Defines boundaries and acceptance criteria,KA::Scope PG::Planning ECO::Process,Basic,
-PMBOK6 - Core Terms,What is the key benefit of the Validate Scope process?,It brings objectivity to the acceptance process and increases the probability of final acceptance.,KA::Scope PG::Monitoring ECO::Process, Basic,
-PMBOK6 - Core Terms,{{c1::Verified deliverables}} are deliverables completed and checked for correctness through the Control Quality process.,Verified deliverables,KA::Scope PG::Monitoring ECO::Process, Cloze,
-PMBOK6 - Core Terms,What is the key benefit of the Control Scope process?,The scope baseline is maintained throughout the project.,KA::Scope PG::Monitoring ECO::Process,Basic,
-PMBOK6 - Core Terms,What analysis technique is used in Control Scope to compare the baseline to actual results?,Variance analysis,KA::Scope PG::Monitoring ECO::Process,Basic,
-PMBOK6 - Core Terms,What is the main benefit of applying Project Schedule Management?,Timely project completion,KA::Schedule ECO::Process, Basic,
-PMBOK6 - Core Terms,What does a schedule model represent in project management?,Plan for delivery over time,KA::Schedule ECO::Process, Basic,
-PMBOK6 - Core Terms,What does a flexible schedule model allow a project team to accommodate?,Risk and discoveries,KA::Schedule ECO::Business, Basic,
-PMBOK6 - Core Terms,What is the purpose of the Plan Schedule Management process?,To define how the schedule will be managed,KA::Schedule PG::Planning ECO::Process,Basic,
-PMBOK6 - Core Terms,What is the purpose of the Define Activities process?,To identify and document specific actions to produce deliverables.,KA::Schedule PG::Planning, Basic,
-PMBOK6 - Core Terms,{{c1::Finish-to-start (FS)}} means the successor cannot start until the predecessor finishes.,Finish-to-start (FS),KA::Schedule PG::Planning,Cloze,
-PMBOK6 - Core Terms,{{c1::Finish-to-finish (FF)}} means the successor cannot finish until the predecessor finishes.,Finish-to-finish (FF),KA::Schedule PG::Planning,Cloze,
-PMBOK6 - Core Terms,{{c1::Start-to-start (SS)}} means the successor cannot start until the predecessor starts.,Start-to-start (SS),KA::Schedule PG::Planning,Cloze,
-PMBOK6 - Core Terms,A {{c1::lead}} is the amount of time a successor activity can be advanced with respect to a predecessor activity.,lead,KA::Schedule PG::Planning,Cloze,
-PMBOK6 - Core Terms,What is the purpose of the Sequence Activities process in project schedule management?,Define logical sequence of work,KA::Schedule PG::Planning ECO::Process,Basic,
-PMBOK6 - Core Terms,{{c1::Path convergence}} occurs when an activity has multiple predecessor activities.,Path convergence,KA::Schedule PG::Planning ECO::Process,Cloze,
-PMBOK6 - Core Terms,What is the purpose of the Estimate Activity Durations process?,To estimate the number of work periods needed to complete each activity.,KA::Schedule PG::Planning ECO::Process,Basic,
-PMBOK6 - Core Terms,What is the key benefit of the Estimate Activity Durations process?,It provides the amount of time each activity will take to complete.,KA::Schedule PG::Planning ECO::Process,Basic,
-PMBOK6 - Core Terms,What is the three-point estimating formula using triangular distribution?,(tO + tM + tP) / 3,KA::Schedule PG::Planning ECO::Process,Basic,
-PMBOK6 - Core Terms,What is the 'optimistic' estimate in three-point estimating?,The best-case duration assuming everything goes as planned.,KA::Schedule PG::Planning ECO::Process,Basic,
-PMBOK6 - Core Terms,What is the key benefit of the Develop Schedule process?,It generates a schedule model with planned dates for completing project activities.,KA::Schedule PG::Planning ECO::Process,Basic,
-PMBOK6 - Core Terms,What is a project schedule?,A schedule model output with linked activities and planned dates.,KA::Schedule PG::Planning ECO::Process,Basic,
-PMBOK6 - Core Terms,What is the purpose of the Control Schedule process?,"To monitor project status, update the schedule, and manage schedule changes.",KA::Schedule PG::Monitoring ECO::Process,Basic,
-PMBOK6 - Core Terms,What is the key benefit of the Control Schedule process?,It maintains the schedule baseline throughout the project.,KA::Schedule PG::Monitoring ECO::Process,Basic,
-PMBOK6 - Core Terms,What is the purpose of the Plan Cost Management process?,"Define how costs are estimated, budgeted, managed, monitored, and controlled",KA::Cost PG::Planning,Basic,
-PMBOK6 - Core Terms,What is the key benefit of Plan Cost Management?,Provides guidance and direction for cost management,KA::Cost PG::Planning,Basic,
-PMBOK6 - Core Terms,How often is the Plan Cost Management process performed?,Once or at predefined points,KA::Cost PG::Planning,Basic,
-PMBOK6 - Core Terms,What does the cost management plan define regarding units?,Units of measure,KA::Cost PG::Planning,Basic,
-PMBOK6 - Core Terms,What does the cost management plan define regarding rounding?,Level of precision,KA::Cost PG::Planning,Basic,
-PMBOK6 - Core Terms,What is the ROM estimate range?,-25% to +75%,KA::Cost PG::Planning,Basic,
-PMBOK6 - Core Terms,What is the formula for triangular distribution?,cE = (cO + cM + cP) / 3,KA::Cost PG::Planning,Basic,
-PMBOK6 - Core Terms,What is the cost baseline used for?,Measure and monitor cost performance,KA::Cost PG::Planning,Basic,
-PMBOK6 - Core Terms,What is the formula for EAC (CPI-based)?,EAC = BAC ÷ CPI,KA::Cost PG::Monitoring,Basic,
-PMBOK6 - Core Terms,What is the TCPI formula using BAC?,TCPI = (BAC - EV) ÷ (BAC - AC),KA::Cost PG::Monitoring,Basic,
-PMBOK6 - Core Terms,What does COQ stand for?,Cost of Quality,KA::Quality,Basic,
-PMBOK6 - Core Terms,What are failure costs in COQ?,Costs from not meeting requirements,KA::Quality,Basic,
-PMBOK6 - Core Terms,What is the least effective quality management level?,Letting customer find defects,KA::Quality,Basic,
-PMBOK6 - Core Terms,What is the purpose of Plan Quality Management?,Identify quality requirements and document compliance plan,KA::Quality PG::Planning,Basic,
-PMBOK6 - Core Terms,What is the key benefit of Plan Quality Management?,Provides guidance on quality management and verification,KA::Quality PG::Planning,Basic,
-PMBOK6 - Core Terms,What is the purpose of the quality management plan?,Describe how policies and procedures ensure quality objectives,KA::Quality PG::Planning,Basic,
-PMBOK6 - Core Terms,Money spent during the project to avoid failures,Cost of Conformance,KA::Quality PG::Planning,Basic,
-PMBOK6 - Core Terms,A {{c1::cause-and-effect diagram}} is also known as a fishbone or Ishikawa diagram.,,KA::Quality PG::Executing,Cloze,
-PMBOK6 - Core Terms,What is the purpose of the Control Quality process?,To assess performance and ensure outputs meet requirements,KA::Quality PG::MonitoringAndControlling,Basic,
-PMBOK6 - Core Terms,What is the key benefit of the Control Quality process?,Verifies deliverables meet stakeholder requirements,KA::Quality PG::MonitoringAndControlling,Basic,
-PMBOK6 - Core Terms,What are verified deliverables?,Deliverables checked for correctness and input to Validate Scope,KA::Quality PG::MonitoringAndControlling,Basic,
-PMBOK6 - Core Terms,What is a team charter?,"A document that defines team values, agreements, and operating guidelines.",KA::Resource PG::Planning,Basic,
-PMBOK6 - Core Terms,What is a resource breakdown structure?,A hierarchical list of team and physical resources by category and type.,KA::Resource PG::Planning,Basic,
-PMBOK6 - Core Terms,What does 'RACI' in a RACI chart stand for?,"Responsible, Accountable, Consult, Inform",KA::Resource PG::Planning,Basic,
-PMBOK6 - Core Terms,What is the Tuckman ladder?,A model describing team development stages,KA::Resource,Basic,
-PMBOK6 - Core Terms,What is the purpose of the Control Resources process?,To ensure physical resources are available as planned and used appropriately,KA::Resource PG::Monitoring,Basic,
-PMBOK6 - Core Terms,What is the purpose of Plan Communications Management?,To develop an approach to project communications based on stakeholder needs.,KA::Communication PG::Planning,Basic,
-PMBOK6 - Core Terms,What is the key benefit of Plan Communications Management?,A documented plan to engage stakeholders with timely information.,KA::Communication PG::Planning,Basic,
-PMBOK6 - Core Terms,What is a communication model?,"A representation of the communication process (linear, interactive, complex).",KA::Communication PG::Planning,Basic,
-PMBOK6 - Core Terms,What is the purpose of the Monitor Communications process?,Ensure information needs are met,KA::Communication PG::Monitoring,Basic,
-PMBOK6 - Core Terms,The key benefit of Monitor Communications is optimal information flow as defined in the {{c1::communications management plan}} and the {{c2::stakeholder engagement plan}}.,,KA::Communication PG::Monitoring,Cloze,
-PMBOK6 - Core Terms,What is the purpose of the Identify Risks process?,Document risks and sources,"KA::Risk,PG::Planning",Basic,
-PMBOK6 - Core Terms,What is the purpose of the Perform Qualitative Risk Analysis process?,Prioritize individual risks,"KA::Risk,PG::Planning",Basic,
-PMBOK6 - Core Terms,What does risk probability assessment consider?,Likelihood of occurrence,"KA::Risk,PG::Planning",Basic,
-PMBOK6 - Core Terms,What is the purpose of Plan Risk Responses?,Address project risk exposure,"KA::Risk,PG::Planning",Basic,
-PMBOK6 - Core Terms,What is the 'Avoid' strategy for overall project risk?,Reduce negative effect to stay within thresholds,"KA::Risk,PG::Planning",Basic,
-PMBOK6 - Core Terms,What does 'Transfer/share' mean for overall risk?,Shift or share risk with third party,"KA::Risk,PG::Planning",Basic,
-PMBOK6 - Core Terms,What does DB stand for in procurement delivery methods?,Design Build,KA::Procurement PG::Planning,Basic,
-PMBOK6 - Core Terms,What does DBB stand for?,Design Bid Build,KA::Procurement PG::Planning,Basic,
-PMBOK6 - Core Terms,What does DBO stand for?,Design Build Operate,KA::Procurement PG::Planning,Basic,
-PMBOK6 - Core Terms,RFI,Request for Information,KA::Procurement PG::Planning,Basic,
-PMBOK6 - Core Terms,RFQ,Request for Quotation,KA::Procurement PG::Planning,Basic,
-PMBOK6 - Core Terms,RFP,Request for Proposal,KA::Procurement PG::Planning,Basic,
-PMBOK6 - Core Terms,What is the purpose of the Identify Stakeholders process?,Identify and analyze stakeholders,KA::Stakeholder PG::Initiating,Basic,
-PMBOK6 - Core Terms,What is the 'Unaware' level of stakeholder engagement?,Not aware of the project,KA::Stakeholder PG::Planning,Basic,
-PMBOK6 - Core Terms,What is the 'Resistant' level of stakeholder engagement?,Aware but unsupportive,KA::Stakeholder PG::Planning,Basic,
-PMBOK6 - Core Terms,What is the 'Neutral' level of stakeholder engagement?,Aware but indifferent,KA::Stakeholder PG::Planning,Basic,
-PMBOK6 - Core Terms,What is the 'Supportive' level of stakeholder engagement?,Aware and supportive,KA::Stakeholder PG::Planning,Basic,
-PMBOK6 - Core Terms,What does a Controlling PMO do?,"Requires compliance with frameworks, tools, and governance. Control is moderate.",KA::Integration ECO::Business, Basic,
-PMBOK6 - Core Terms,What does a Directive PMO do?,Directly manages projects. Project managers report to the PMO. Control is high.,KA::Integration ECO::Business, Basic,
-PMBOK6 - Core Terms,True or False: Projects managed by a PMO must be related to each other.,False. Projects may be unrelated and simply managed together by the PMO.,KA::Integration, Basic,
-PMBOK6 - Core Terms,"In Agile, what does Control Schedule focus on?","Work delivered vs. estimates, retrospectives, reprioritization, and velocity tracking.",KA::Schedule PG::Monitoring ECO::Agile,Basic,
-PMBOK6 - Core Terms,Editing scheduled task starts 15 days after writing scheduled task starts. What is this an example of?,Lag,KA::Schedule PG::Planning,Basic,
+ID,deck,front,back,tags,note_type,media,flag_reason
+1,PMBOK6 - Core Terms,What is the PMI definition of a project?,"A temporary endeavor undertaken to create a unique product, service, or result.",KA::Integration PG::Initiating ECO::Process, Basic,,back_length_50_80_consider_cloze
+3,PMBOK6 - Core Terms,What distinguishes a project from operations?,Projects are temporary and unique; operations are ongoing and repetitive.,KA::Integration, Basic,,back_length_50_80_consider_cloze
+18,PMBOK6 - Core Terms,Name two examples of internal EEFs.,Organizational culture; Infrastructure; IT systems; Employee capabilities,KA::Integration ECO::Business, Basic,,back_length_50_80_consider_cloze
+20,PMBOK6 - Core Terms,What are the two main categories of OPAs?,"Processes, policies, and procedures; Organizational knowledge bases",KA::Integration ECO::Business, Basic,,back_length_50_80_consider_cloze
+31,PMBOK6 - Core Terms,What does a Controlling PMO do?,"Requires compliance with frameworks, tools, and governance. Control is moderate.",KA::Integration ECO::Business, Basic,,back_length_50_80_consider_cloze
+32,PMBOK6 - Core Terms,What does a Directive PMO do?,Directly manages projects. Project managers report to the PMO. Control is high.,KA::Integration ECO::Business, Basic,,back_length_50_80_consider_cloze
+35,PMBOK6 - Core Terms,True or False: Projects managed by a PMO must be related to each other.,False. Projects may be unrelated and simply managed together by the PMO.,KA::Integration, Basic,,back_length_50_80_consider_cloze
+36,PMBOK6 - Core Terms,What is the primary responsibility of the project manager?,To lead the project team toward achieving the project objectives.,KA::Integration ECO::People, Basic,,back_length_50_80_consider_cloze
+41,PMBOK6 - Core Terms,What is one way a project manager contributes to organizational maturity?,By advocating project management practices and knowledge sharing.,KA::Integration ECO::Business,Basic,,back_length_50_80_consider_cloze
+42,PMBOK6 - Core Terms,What are the three components of the PMI Talent Triangle?,"Technical Project Management, Leadership, Strategic and Business Management",KA::Integration ECO::People,Basic,,back_length_50_80_consider_cloze
+47,PMBOK6 - Core Terms,What should a project manager consider when choosing a leadership style?,"The situation, team dynamics, and organizational context.",KA::Integration ECO::People,Basic,,back_length_50_80_consider_cloze
+52,PMBOK6 - Core Terms,Why is political awareness important for project managers?,"To build alliances, navigate influence, and make effective decisions.",KA::Integration ECO::People,Basic,,back_length_50_80_consider_cloze
+53,PMBOK6 - Core Terms,What is the primary goal of technical project management skills?,To apply project knowledge effectively to deliver successful outcomes.,KA::Integration ECO::Process,Basic,,back_length_50_80_consider_cloze
+54,PMBOK6 - Core Terms,Which four artifacts should a project manager keep readily available to focus on technical success?,"Critical success factors, Schedule, Financial reports, Issue log",KA::Integration ECO::Process,Basic,,back_length_50_80_consider_cloze
+56,PMBOK6 - Core Terms,What is one reason top-performing project managers make time to plan thoroughly?,To prioritize work effectively and increase chances of project success.,KA::Integration ECO::Process,Basic,,back_length_50_80_consider_cloze
+57,PMBOK6 - Core Terms,Strategic and business management skills help project managers do what?,Align projects with organizational strategy and deliver business value.,KA::Integration ECO::Business,Basic,,back_length_50_80_consider_cloze
+58,PMBOK6 - Core Terms,Which business areas should a project manager understand to support strategic alignment?,"Finance, Marketing, Operations, Products, Market conditions, and Competition",KA::Integration ECO::Business,Basic,,back_length_50_80_consider_cloze
+59,PMBOK6 - Core Terms,How can strategic business knowledge help a project manager make better decisions?,"By analyzing risks, cost-benefit tradeoffs, and aligning with business value",KA::Integration ECO::Business,Basic,,back_length_50_80_consider_cloze
+62,PMBOK6 - Core Terms,What are the most critical people-oriented capabilities a project manager should master?,"Communication, conflict resolution, negotiation, empathy, and critical thinking",KA::Integration ECO::People,Basic,,back_length_50_80_consider_cloze
+64,PMBOK6 - Core Terms,Why is political acumen important for project leaders?,"To build trust, manage conflicts, and navigate organizational dynamics.",KA::Integration ECO::People,Basic,,back_length_50_80_consider_cloze
+65,PMBOK6 - Core Terms,Which leadership trait helps in managing diverse stakeholder expectations while maintaining focus?,Building trust and balancing opposing goals through consensus,KA::Integration ECO::People,Basic,,back_length_50_80_consider_cloze
+66,PMBOK6 - Core Terms,How should a project manager handle feedback?,By accepting it graciously and providing constructive responses.,KA::Integration ECO::People,Basic,,back_length_50_80_consider_cloze
+69,PMBOK6 - Core Terms,Which leadership skill enables the project manager to serve as a change agent?,Applying critical thinking and taking a systemic project view,KA::Integration ECO::People,Basic,,back_length_50_80_consider_cloze
+70,PMBOK6 - Core Terms,What type of power does a project manager use when they rely on their formal job title or organizational role to influence others?,"Positional (also called formal, legitimate, or authoritative)",KA::Integration ECO::People,Basic,,back_length_50_80_consider_cloze
+141,PMBOK6 - Core Terms,What should a project manager do if assumptions are identified during charter development?,Record them in the assumption log for ongoing review throughout the project.,KA::Integration PG::Initiating ECO::Process,Basic,,back_length_50_80_consider_cloze
+143,PMBOK6 - Core Terms,When is the project manager ideally assigned to the project?,While the project charter is being developed and always before planning begins.,KA::Integration PG::Initiating ECO::People,Basic,,back_length_50_80_consider_cloze
+154,PMBOK6 - Core Terms,What is the goal of the Cost Management Plan?,"To define how project costs will be planned, structured, and controlled.",KA::Cost PG::Planning ECO::Process,Basic,,back_length_50_80_consider_cloze
+158,PMBOK6 - Core Terms,What does the Risk Management Plan establish?,It outlines how risk management activities will be structured and performed.,KA::Risk PG::Planning ECO::Process,Basic,,back_length_50_80_consider_cloze
+163,PMBOK6 - Core Terms,What is the Cost Baseline?,"The approved, time-phased budget used to compare actual project spending.",KA::Cost PG::Planning ECO::Process,Basic,,back_length_50_80_consider_cloze
+166,PMBOK6 - Core Terms,What does the Performance Measurement Baseline include?,An integrated scope-schedule-cost plan used to measure project performance.,KA::Integration PG::Monitoring ECO::Process,Basic,,back_length_50_80_consider_cloze
+167,PMBOK6 - Core Terms,What is the Project Life Cycle?,It describes the phases a project passes through from initiation to closure.,KA::Integration PG::Initiating ECO::Process,Basic,,back_length_50_80_consider_cloze
+172,PMBOK6 - Core Terms,A team member raises a defect during execution. What type of action should be initiated if the defect affects deliverable quality?,Submit a defect repair change request and log the issue for tracking.,KA::Integration PG::Executing ECO::Process,Basic,,back_length_50_80_consider_cloze
+178,PMBOK6 - Core Terms,In what situation would a project manager use knowledge management tools like communities of practice and knowledge-sharing workshops?,To facilitate sharing of tacit knowledge among team members,KA::Integration ECO::People,Basic,,back_length_50_80_consider_cloze
+182,PMBOK6 - Core Terms,A key stakeholder expresses concern about potential delays. What technique should you use to forecast future schedule performance?,"Trend analysis, which projects future performance based on historical data.",KA::Integration PG::Monitoring ECO::Process,Basic,,back_length_50_80_consider_cloze
+183,PMBOK6 - Core Terms,The project manager notices frequent changes and wants to assess their cumulative impact. What analysis technique is appropriate?,"Earned value analysis to integrate scope, schedule, and cost performance.",KA::Integration PG::Monitoring ECO::Process,Basic,,back_length_50_80_consider_cloze
+189,PMBOK6 - Core Terms,What should a project manager reference to determine how change requests should be handled and who is authorized to approve them?,The change management plan within the project management plan.,KA::Integration PG::Monitoring_Control ECO::Business,Basic,,back_length_50_80_consider_cloze
+204,PMBOK6 - Core Terms,What is the key benefit of Plan Scope Management?,Provides structure and guidance for managing scope.,KA::Scope PG::Planning ECO::Process,Basic,,back_length_50_80_consider_cloze
+209,PMBOK6 - Core Terms,What is the key benefit of the Collect Requirements process?,Provides the basis for defining the product and project scope.,KA::Scope PG::Planning ECO::Process,Basic,,back_length_50_80_consider_cloze
+210,PMBOK6 - Core Terms,What is the primary output of the Collect Requirements process?,Requirements documentation and requirements traceability matrix,KA::Scope PG::Planning ECO::Process,Basic,,back_length_50_80_consider_cloze
+220,PMBOK6 - Core Terms,What is the purpose of the Create WBS process?,"To subdivide deliverables and project work into smaller, manageable components.",KA::Scope PG::Planning ECO::Process,Basic,,back_length_50_80_consider_cloze
+223,PMBOK6 - Core Terms,What is the 100 percent rule in WBS?,The total of the work at the lowest levels should roll up to the higher levels.,KA::Scope PG::Planning ECO::Process,Basic,,back_length_50_80_consider_cloze
+240,PMBOK6 - Core Terms,What is the key benefit of the Control Scope process?,The scope baseline is maintained throughout the project.,KA::Scope PG::Monitoring ECO::Process,Basic,,back_length_50_80_consider_cloze
+241,PMBOK6 - Core Terms,What does the Control Scope process monitor and manage?,The status of the project and product scope and changes to the scope baseline.,KA::Scope PG::Monitoring ECO::Process,Basic,,back_length_50_80_consider_cloze
+267,PMBOK6 - Core Terms,What is the purpose of the Define Activities process?,To identify and document specific actions to produce deliverables.,KA::Schedule PG::Planning, Basic,,back_length_50_80_consider_cloze
+295,PMBOK6 - Core Terms,What is the purpose of the Estimate Activity Durations process?,To estimate the number of work periods needed to complete each activity.,KA::Schedule PG::Planning ECO::Process,Basic,,back_length_50_80_consider_cloze
+296,PMBOK6 - Core Terms,What is the key benefit of the Estimate Activity Durations process?,It provides the amount of time each activity will take to complete.,KA::Schedule PG::Planning ECO::Process,Basic,,back_length_50_80_consider_cloze
+302,PMBOK6 - Core Terms,What is the impact of adding too many resources to an activity?,May increase duration due to coordination and learning curve.,KA::Schedule PG::Planning ECO::Process,Basic,,back_length_50_80_consider_cloze
+304,PMBOK6 - Core Terms,What is the student syndrome?,Procrastinating until the last possible moment before a deadline.,KA::Schedule PG::Planning ECO::Process,Basic,,back_length_50_80_consider_cloze
+307,PMBOK6 - Core Terms,What is the purpose of the basis of estimates?,To provide clear understanding of how duration estimates were developed.,KA::Schedule PG::Planning ECO::Process,Basic,,back_length_50_80_consider_cloze
+308,PMBOK6 - Core Terms,What might a range-based duration estimate look like?,Example: 2 weeks ± 2 days or a 15% chance of exceeding 3 weeks.,KA::Schedule PG::Planning ECO::Process,Basic,,back_length_50_80_consider_cloze
+309,PMBOK6 - Core Terms,What is included in reserve analysis for duration estimating?,Contingency for known-unknowns; management reserve for unknown-unknowns.,KA::Schedule PG::Planning ECO::Process,Basic,,back_length_50_80_consider_cloze
+310,PMBOK6 - Core Terms,How are contingency and management reserves treated differently in the schedule baseline?,Contingency is part of the baseline; management reserve is not.,KA::Schedule PG::Planning ECO::Process,Basic,,back_length_50_80_consider_cloze
+312,PMBOK6 - Core Terms,When is bottom-up estimating used?,When detailed estimates are needed for decomposed work and confidence is low.,KA::Schedule PG::Planning ECO::Process,Basic,,back_length_50_80_consider_cloze
+313,PMBOK6 - Core Terms,What does the 'most likely' estimate in three-point estimating represent?,The realistic duration assuming expected conditions and performance.,KA::Schedule PG::Planning ECO::Process,Basic,,back_length_50_80_consider_cloze
+314,PMBOK6 - Core Terms,What is the 'optimistic' estimate in three-point estimating?,The best-case duration assuming everything goes as planned.,KA::Schedule PG::Planning ECO::Process,Basic,,back_length_50_80_consider_cloze
+315,PMBOK6 - Core Terms,What is the 'pessimistic' estimate in three-point estimating?,The worst-case scenario duration considering risks and delays.,KA::Schedule PG::Planning ECO::Process,Basic,,back_length_50_80_consider_cloze
+317,PMBOK6 - Core Terms,What is the law of diminishing returns?,Adding more of one input eventually yields smaller increases in output.,KA::Schedule PG::Planning ECO::Process,Basic,,back_length_50_80_consider_cloze
+322,PMBOK6 - Core Terms,What is total float?,Time a schedule activity can be delayed without delaying project finish.,KA::Schedule PG::Planning ECO::Process,Basic,,back_length_50_80_consider_cloze
+323,PMBOK6 - Core Terms,What is free float?,Time a schedule activity can be delayed without delaying successor.,KA::Schedule PG::Planning ECO::Process,Basic,,back_length_50_80_consider_cloze
+331,PMBOK6 - Core Terms,What is a project schedule?,A schedule model output with linked activities and planned dates.,KA::Schedule PG::Planning ECO::Process,Basic,,back_length_50_80_consider_cloze
+333,PMBOK6 - Core Terms,What are milestone charts?,Charts showing scheduled start/completion of major deliverables.,KA::Schedule PG::Planning ECO::Process,Basic,,back_length_50_80_consider_cloze
+335,PMBOK6 - Core Terms,What does schedule data include?,"Milestones, activity attributes, assumptions, constraints, and reserves.",KA::Schedule PG::Planning ECO::Process,Basic,,back_length_50_80_consider_cloze
+336,PMBOK6 - Core Terms,What is Agile release planning?,Provides a high-level summary timeline of releases based on product roadmap.,KA::Schedule PG::Planning ECO::Process,Basic,,back_length_50_80_consider_cloze
+338,PMBOK6 - Core Terms,What is an example of resource leveling?,Adjusting dates to balance demand when a resource is overallocated across tasks.,KA::Schedule PG::Planning ECO::Process,Basic,,back_length_50_80_consider_cloze
+349,PMBOK6 - Core Terms,What are common formats for displaying a project schedule?,"Bar charts, milestone charts, and network diagrams.",KA::Schedule PG::Planning ECO::Process,Basic,,back_length_50_80_consider_cloze
+351,PMBOK6 - Core Terms,When does the project schedule become final instead of preliminary?,After confirming resource assignments and start/finish dates.,KA::Schedule PG::Planning ECO::Process,Basic,,back_length_50_80_consider_cloze
+352,PMBOK6 - Core Terms,What is the purpose of the Control Schedule process?,"To monitor project status, update the schedule, and manage schedule changes.",KA::Schedule PG::Monitoring ECO::Process,Basic,,back_length_50_80_consider_cloze
+353,PMBOK6 - Core Terms,What is the key benefit of the Control Schedule process?,It maintains the schedule baseline throughout the project.,KA::Schedule PG::Monitoring ECO::Process,Basic,,back_length_50_80_consider_cloze
+360,PMBOK6 - Core Terms,What is the role of the critical path method in Control Schedule?,To evaluate schedule status and risks along critical and near-critical paths.,KA::Schedule PG::Monitoring,Basic,,back_length_50_80_consider_cloze
+361,PMBOK6 - Core Terms,What is the purpose of schedule compression techniques in Control Schedule?,To realign project work by fast tracking or crashing.,KA::Schedule PG::Monitoring,Basic,,back_length_50_80_consider_cloze
+383,PMBOK6 - Core Terms,What is the purpose of the Plan Cost Management process?,"Define how costs are estimated, budgeted, managed, monitored, and controlled",KA::Cost PG::Planning,Basic,,back_length_50_80_consider_cloze
+384,PMBOK6 - Core Terms,What is the key benefit of Plan Cost Management?,Provides guidance and direction for cost management,KA::Cost PG::Planning,Basic,,back_length_50_80_consider_cloze
+464,PMBOK6 - Core Terms,What's the difference between quality and grade?,Quality = meets requirements; Grade = design category,KA::Quality,Basic,,back_length_50_80_consider_cloze
+471,PMBOK6 - Core Terms,What are control limits?,Boundaries of common variation in a stable process,KA::Quality,Basic,,back_length_50_80_consider_cloze
+487,PMBOK6 - Core Terms,What is the purpose of Plan Quality Management?,Identify quality requirements and document compliance plan,KA::Quality PG::Planning,Basic,,back_length_50_80_consider_cloze
+488,PMBOK6 - Core Terms,What is the key benefit of Plan Quality Management?,Provides guidance on quality management and verification,KA::Quality PG::Planning,Basic,,back_length_50_80_consider_cloze
+497,PMBOK6 - Core Terms,What are the 4 cost of quality categories?,"Prevention, appraisal, internal failure, external failure",KA::Quality PG::Planning,Basic,,back_length_50_80_consider_cloze
+498,PMBOK6 - Core Terms,What is the goal of test and inspection planning?,Ensure deliverables meet performance and stakeholder expectations,KA::Quality PG::Planning,Basic,,back_length_50_80_consider_cloze
+499,PMBOK6 - Core Terms,What is the purpose of the quality management plan?,Describe how policies and procedures ensure quality objectives,KA::Quality PG::Planning,Basic,,back_length_50_80_consider_cloze
+524,PMBOK6 - Core Terms,What are some areas that 'X' can represent in 'Design for X'?,"Reliability, assembly, manufacturing, cost, usability, safety, quality",KA::Quality PG::Executing,Basic,,back_length_50_80_consider_cloze
+526,PMBOK6 - Core Terms,What is the primary purpose of a quality audit?,"Check compliance with policies, processes, and procedures",KA::Quality PG::Executing,Basic,,back_length_50_80_consider_cloze
+529,PMBOK6 - Core Terms,What actions can quality audits confirm?,"Implementation of approved change requests, corrective and preventive actions",KA::Quality PG::Executing,Basic,,back_length_50_80_consider_cloze
+531,PMBOK6 - Core Terms,What is the purpose of an Ishikawa diagram?,Break down causes of a problem into discrete branches,KA::Quality PG::Executing,Basic,,back_length_50_80_consider_cloze
+535,PMBOK6 - Core Terms,Who participates in Manage Quality activities?,"Project manager, team, sponsor, organization, and customer",KA::Quality PG::Executing,Basic,,back_length_50_80_consider_cloze
+536,PMBOK6 - Core Terms,What is the purpose of the Control Quality process?,To assess performance and ensure outputs meet requirements,KA::Quality PG::MonitoringAndControlling,Basic,,back_length_50_80_consider_cloze
+537,PMBOK6 - Core Terms,What is the key benefit of the Control Quality process?,Verifies deliverables meet stakeholder requirements,KA::Quality PG::MonitoringAndControlling,Basic,,back_length_50_80_consider_cloze
+538,PMBOK6 - Core Terms,What are verified deliverables?,Deliverables checked for correctness and input to Validate Scope,KA::Quality PG::MonitoringAndControlling,Basic,,back_length_50_80_consider_cloze
+540,PMBOK6 - Core Terms,What is the purpose of inspections in quality control?,Determine conformance of work products to standards,KA::Quality PG::MonitoringAndControlling,Basic,,back_length_50_80_consider_cloze
+541,PMBOK6 - Core Terms,What is statistical sampling?,Selecting a subset for inspection to measure quality,KA::Quality PG::MonitoringAndControlling,Basic,,back_length_50_80_consider_cloze
+542,PMBOK6 - Core Terms,What is a check sheet used for?,Organizing data to identify frequency and causes of defects,KA::Quality PG::MonitoringAndControlling,Basic,,back_length_50_80_consider_cloze
+553,PMBOK6 - Core Terms,What is the role of the project manager in managing the project team?,"To lead and manage team formation, communication, and motivation.",KA::Resource,Basic,,back_length_50_80_consider_cloze
+554,PMBOK6 - Core Terms,What is a key leadership responsibility in Project Resource Management?,"Developing team competencies, satisfaction, and motivation.",KA::Resource,Basic,,back_length_50_80_consider_cloze
+555,PMBOK6 - Core Terms,Why is efficient management of physical resources important?,"To avoid delays, quality issues, and increased costs.",KA::Resource,Basic,,back_length_50_80_consider_cloze
+557,PMBOK6 - Core Terms,What are self-organizing teams and where are they commonly used?,"Teams that manage themselves, common in agile/IT projects.",KA::Resource,Basic,,back_length_50_80_consider_cloze
+559,PMBOK6 - Core Terms,Why are virtual teams advantageous in modern project environments?,They enable access to remote expertise and increase flexibility.,KA::Resource,Basic,,back_length_50_80_consider_cloze
+561,PMBOK6 - Core Terms,How do agile environments affect planning for human and physical resources?,Agreements for fast supply and lean methods are critical due to variability.,KA::Resource,Basic,,back_length_50_80_consider_cloze
+567,PMBOK6 - Core Terms,What is a team charter?,"A document that defines team values, agreements, and operating guidelines.",KA::Resource PG::Planning,Basic,,back_length_50_80_consider_cloze
+569,PMBOK6 - Core Terms,Why should the team help develop the team charter?,"To ensure commitment, reduce misunderstandings, and increase productivity.",KA::Resource PG::Planning,Basic,,back_length_50_80_consider_cloze
+577,PMBOK6 - Core Terms,What does a work breakdown structure (WBS) show?,How project deliverables are broken into work packages.,KA::Resource PG::Planning,Basic,,back_length_50_80_consider_cloze
+578,PMBOK6 - Core Terms,What does an organizational breakdown structure (OBS) depict?,Project work organized by existing departments or units.,KA::Resource PG::Planning,Basic,,back_length_50_80_consider_cloze
+579,PMBOK6 - Core Terms,What is a resource breakdown structure?,A hierarchical list of team and physical resources by category and type.,KA::Resource PG::Planning,Basic,,back_length_50_80_consider_cloze
+580,PMBOK6 - Core Terms,What is a Responsibility Assignment Matrix (RAM)?,A chart that links project work with team members.,KA::Resource PG::Planning,Basic,,back_length_50_80_consider_cloze
+583,PMBOK6 - Core Terms,What does a resource breakdown structure represent?,A hierarchical representation of resources by category and type,KA::Resource PG::Estimating,Basic,,back_length_50_80_consider_cloze
+587,PMBOK6 - Core Terms,What does a resource calendar identify?,"Working days, hours, holidays, and availability of specific resources",KA::Resource PG::Estimating,Basic,,back_length_50_80_consider_cloze
+589,PMBOK6 - Core Terms,Why must Estimate Activity Resources be coordinated with Estimate Costs?,To ensure needed expertise and knowledge are sourced effectively,KA::Resource PG::Estimating,Basic,,back_length_50_80_consider_cloze
+591,PMBOK6 - Core Terms,What is the purpose of Estimate Activity Resources?,To estimate team and physical resources required to perform project work,KA::Resource PG::Estimating,Basic,,back_length_50_80_consider_cloze
+604,PMBOK6 - Core Terms,What is the key difference between internal and external project resources?,Internal: assigned from within; External: procured externally,KA::Resource PG::Executing,Basic,,back_length_50_80_consider_cloze
+605,PMBOK6 - Core Terms,Why might a project manager have limited control over resource selection?,"Matrix environments, unions, subcontractors, or organizational policies",KA::Resource PG::Executing,Basic,,back_length_50_80_consider_cloze
+606,PMBOK6 - Core Terms,What are risks of not acquiring necessary resources?,"Delays, budget overruns, decreased quality, and increased risk",KA::Resource PG::Executing,Basic,,back_length_50_80_consider_cloze
+607,PMBOK6 - Core Terms,What can a project manager do if required resources are unavailable?,Assign alternatives with no regulatory or mandatory violations,KA::Resource PG::Executing,Basic,,back_length_50_80_consider_cloze
+609,PMBOK6 - Core Terms,What are benefits of the Develop Team process?,"Improved teamwork, motivation, reduced attrition, and better project performance",KA::Resource,Basic,,back_length_50_80_consider_cloze
+610,PMBOK6 - Core Terms,What is the purpose of team performance assessments?,To evaluate team effectiveness and identify improvement needs,KA::Resource,Basic,,back_length_50_80_consider_cloze
+615,PMBOK6 - Core Terms,What are people generally motivated by?,"Opportunities to grow, be appreciated, and meet new challenges",KA::Resource,Basic,,back_length_50_80_consider_cloze
+624,PMBOK6 - Core Terms,What are the five stages of the Tuckman ladder?,"Forming, Storming, Norming, Performing, Adjourning",KA::Resource,Basic,,back_length_50_80_consider_cloze
+630,PMBOK6 - Core Terms,What are project managers responsible for in team development?,"Inspiring, motivating, and enabling high team performance",KA::Resource,Basic,,back_length_50_80_consider_cloze
+633,PMBOK6 - Core Terms,What is the key benefit of the Manage Team process?,"Influences behavior, manages conflict, resolves issues",KA::Resource,Basic,,back_length_50_80_consider_cloze
+634,PMBOK6 - Core Terms,What are key skills involved in managing a project team?,"Communication, conflict management, negotiation, and leadership",KA::Resource,Basic,,back_length_50_80_consider_cloze
+635,PMBOK6 - Core Terms,Why should project managers adjust their management style?,To align with the willingness and ability of team members,KA::Resource,Basic,,back_length_50_80_consider_cloze
+636,PMBOK6 - Core Terms,What are common sources of conflict in projects?,"Scarce resources, scheduling priorities, personal work styles",KA::Resource,Basic,,back_length_50_80_consider_cloze
+637,PMBOK6 - Core Terms,What are benefits of successfully managing conflict?,"Increased productivity, better decision making, improved relationships",KA::Resource,Basic,,back_length_50_80_consider_cloze
+638,PMBOK6 - Core Terms,When should conflict be addressed and how?,"Early, in private, using a direct, collaborative approach",KA::Resource,Basic,,back_length_50_80_consider_cloze
+644,PMBOK6 - Core Terms,What are some guidelines for effective decision making in resource management?,"Focus on goals, follow process, analyze info, consider risk",KA::Resource,Basic,,back_length_50_80_consider_cloze
+646,PMBOK6 - Core Terms,Why is influencing critical in matrix project environments?,PMs lack authority; must gain cooperation and support,KA::Resource,Basic,,back_length_50_80_consider_cloze
+649,PMBOK6 - Core Terms,What is the purpose of the Control Resources process?,To ensure physical resources are available as planned and used appropriately,KA::Resource PG::Monitoring,Basic,,back_length_50_80_consider_cloze
+651,PMBOK6 - Core Terms,What types of resources are managed under the Control Resources process?,"Physical resources (equipment, materials, facilities, infrastructure)",KA::Resource PG::Monitoring,Basic,,back_length_50_80_consider_cloze
+653,PMBOK6 - Core Terms,What are the steps involved in problem solving in resource control?,"Identify, Define, Investigate, Analyze, Solve, Check",KA::Resource PG::Monitoring,Basic,,back_length_50_80_consider_cloze
+654,PMBOK6 - Core Terms,What are common forms communication can take on a project?,"Written, Spoken, Gestural, Media-based, Word choice",KA::Communication,Basic,,back_length_50_80_consider_cloze
+656,PMBOK6 - Core Terms,Why is communication important in project management?,It bridges stakeholder differences and enhances understanding,KA::Communication,Basic,,back_length_50_80_consider_cloze
+664,PMBOK6 - Core Terms,What does a multifaceted communication approach involve?,Using various technologies and respecting stakeholder preferences,KA::Communication,Basic,,back_length_50_80_consider_cloze
+665,PMBOK6 - Core Terms,What tailoring considerations apply to communication technology?,"Availability, appropriateness, and cost-effectiveness",KA::Communication,Basic,,back_length_50_80_consider_cloze
+666,PMBOK6 - Core Terms,How does Agile handle evolving communication needs?,"Frequent updates, transparency, stakeholder reviews",KA::Communication,Basic,,back_length_50_80_consider_cloze
+668,PMBOK6 - Core Terms,What is the purpose of Plan Communications Management?,To develop an approach to project communications based on stakeholder needs.,KA::Communication PG::Planning,Basic,,back_length_50_80_consider_cloze
+669,PMBOK6 - Core Terms,What is the key benefit of Plan Communications Management?,A documented plan to engage stakeholders with timely information.,KA::Communication PG::Planning,Basic,,back_length_50_80_consider_cloze
+673,PMBOK6 - Core Terms,What are factors that affects the choice of communication technology?,"Urgency, reliability, ease, environment, or confidentiality.",KA::Communication PG::Planning,Basic,,back_length_50_80_consider_cloze
+675,PMBOK6 - Core Terms,What is a communication model?,"A representation of the communication process (linear, interactive, complex).",KA::Communication PG::Planning,Basic,,back_length_50_80_consider_cloze
+682,PMBOK6 - Core Terms,What can cause challenges in cross-cultural communication?,"Differences in language, styles, processes, and expectations.",KA::Communication PG::Planning,Basic,,back_length_50_80_consider_cloze
+688,PMBOK6 - Core Terms,What is mass communication?,Minimal connection between sender and large audience.,KA::Communication PG::Planning,Basic,,back_length_50_80_consider_cloze
+689,PMBOK6 - Core Terms,What is the purpose of a communication styles assessment?,"To determine stakeholder preferences for format, method, and content.",KA::Communication PG::Planning,Basic,,back_length_50_80_consider_cloze
+718,PMBOK6 - Core Terms,Tailoring factors for Project Risk Management.,"Project size, project complexity, project importance, development approach.",KA::Risk,Basic,,back_length_50_80_consider_cloze
+801,PMBOK6 - Core Terms,Escalate strategy for threats involves moving the risk to a higher organizational level. Why?,Because it's outside project scope or PM authority.,"KA::Risk,PG::Planning",Basic,,back_length_50_80_consider_cloze
+836,PMBOK6 - Core Terms,What is the purpose of the Monitor Risks process?,"Track risks, evaluate risk process, and inform project decisions","KA::Risk,PG::Monitoring",Basic,,back_length_50_80_consider_cloze
+841,PMBOK6 - Core Terms,What does reserve analysis determine during Monitor Risks?,If remaining reserve is adequate for remaining risk,"KA::Risk,PG::Monitoring",Basic,,back_length_50_80_consider_cloze
+842,PMBOK6 - Core Terms,What are risk audits used for in Monitor Risks?,Evaluate the effectiveness of the risk management process,"KA::Risk,PG::Monitoring",Basic,,back_length_50_80_consider_cloze
+886,PMBOK6 - Core Terms,What is the purpose of a make-or-buy analysis?,Determine whether to perform work in-house or purchase externally,KA::Procurement PG::Planning,Basic,,back_length_50_80_consider_cloze
+894,PMBOK6 - Core Terms,What is the purpose of the Procurement Management Plan?,To define procurement activities and coordination with other project aspects.,KA::Procurement PG::Planning,Basic,,back_length_50_80_consider_cloze
+900,PMBOK6 - Core Terms,What is the delivery method where the services provider acts as the buyer's representative?,Buyer/services provider acts as the representative,KA::Procurement PG::Planning,Basic,,back_length_50_80_consider_cloze
+904,PMBOK6 - Core Terms,When are fixed-price contracts most suitable?,When work is predictable and requirements well-defined,KA::Procurement PG::Planning,Basic,,back_length_50_80_consider_cloze
+909,PMBOK6 - Core Terms,What may be included in procurement phases?,"Sequencing, indicators, criteria, evaluation plan, knowledge transfer",KA::Procurement PG::Planning,Basic,,back_length_50_80_consider_cloze
+938,PMBOK6 - Core Terms,What is the purpose of the Control Procurements process?,Ensure contract performance meets project requirements.,KA::Procurement PG::Monitoring,Basic,,back_length_50_80_consider_cloze
+942,PMBOK6 - Core Terms,What are typical administrative activities in Control Procurements?,"Data collection, plan refinement, invoice management.",KA::Procurement PG::Monitoring,Basic,,back_length_50_80_consider_cloze
+951,PMBOK6 - Core Terms,What are typical requirements for contract closure?,"All deliverables accepted, no claims, final payment.",KA::Procurement PG::Monitoring,Basic,,back_length_50_80_consider_cloze
+985,PMBOK6 - Core Terms,What are common stakeholder classifications?,"Internal/external, power/interest, directions of influence",KA::Stakeholder PG::Initiating,Basic,,back_length_50_80_consider_cloze
+995,PMBOK6 - Core Terms,What is the 'Leading' level of stakeholder engagement?,Aware and actively engaged in drive project success,KA::Stakeholder PG::Planning,Basic,,back_length_50_80_consider_cloze
