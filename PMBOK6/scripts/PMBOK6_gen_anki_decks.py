@@ -19,7 +19,7 @@ basic_model = genanki.Model(
     ],
     templates=[
         {
-            'name': 'Card 1',
+            'name': 'Basic Card',
             'qfmt': '{{Front}}',
             'afmt': '{{FrontSide}}<hr id="answer">{{Back}}',
         },
@@ -65,21 +65,25 @@ for filename in os.listdir(CSV_DIR):
     filepath = os.path.join(CSV_DIR, filename)
     df = pd.read_csv(filepath).fillna('')
 
+    if 'ID' not in df.columns:
+        df.insert(0, 'ID', range(1, len(df) + 1))
+
     deck_name = df.iloc[0]['deck']
     deck_id = abs(hash(deck_name)) % (10 ** 10)
     deck = genanki.Deck(deck_id, deck_name)
 
     for _, row in df.iterrows():
+        uid = str(row['ID'])
         if row['note_type'].lower() == 'cloze':
             note = genanki.Note(
                 model=cloze_model,
-                fields=[row['back'], '', str(row['ID'])],
+                fields=[row['front'], row['back'], uid],
                 tags=row['tags'].split() if row['tags'] else []
             )
         else:
             note = genanki.Note(
                 model=basic_model,
-                fields=[row['front'], row['back'], str(row['ID'])],
+                fields=[row['front'], row['back'], uid],
                 tags=row['tags'].split() if row['tags'] else []
             )
         deck.add_note(note)
