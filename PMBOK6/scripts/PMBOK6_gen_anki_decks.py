@@ -3,7 +3,7 @@ import pandas as pd
 import os
 
 # Import custom models
-from models import basic_model, cloze_model
+from anki_decks.models import basic_model, cloze_model
 
 # Config
 CSV_DIR = r'PMBOK6\PMBOK6_cleaned_decks'

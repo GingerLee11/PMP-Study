@@ -1,8 +1,13 @@
 import os
 import pandas as pd
 import random
+import sys
 import genanki
-from models import basic_model, cloze_model
+
+# Ensure root project directory is in sys.path
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '../../')))
+
+from anki_decks.models import basic_model, cloze_model
 
 # Config
 CLEANED_DIR = r'AgilePG\flashcards\cleaned'
@@ -63,4 +68,4 @@ for deck_name, group in combined_df.groupby('deck'):
 
 # Output to file
 package.write_to_file(OUTPUT_FILE)
-print(f"✅ Anki package created at: {OUTPUT_FILE}")
+print(f"Anki package created at: {OUTPUT_FILE}")
