@@ -1,6 +1,7 @@
 import os
 import csv
 import logging
+import re
 
 # Filepaths
 input_csv = r'PMBOK7\raw\PMBOK7_flashcards.csv'
@@ -24,19 +25,18 @@ def get_subdeck(row):
     subdeck = deck
 
     if deck == "PMBOK7::Performance Domains":
-        # Find Domain tag
-        domain_tag = next((t for t in tags.split() if t.startswith("Domain::")), None)
-        if domain_tag:
-            domain_name = domain_tag.split("::", 1)[1].strip()
-            # Optionally map Life Cycle/Development Approach split here
+        # Match everything after Domain:: up to next tag (e.g., ECO::, MMA::) or end of string
+        domain_match = re.search(r"Domain::(.*?)(?:\s+\w+::|$)", tags)
+        if domain_match:
+            domain_name = domain_match.group(1).strip()
             subdeck = f"{deck}::{domain_name}"
             logging.info(f"Mapped Performance Domain card to subdeck: {subdeck}")
         else:
             logging.warning(f"No Domain:: tag found in tags: '{tags}' for card: {row['front']}")
     elif deck == "PMBOK7::MMA":
-        mma_tag = next((t for t in tags.split() if t.startswith("MMA::")), None)
-        if mma_tag:
-            mma_name = mma_tag.split("::", 1)[1].strip()
+        mma_match = re.search(r"MMA::(.*?)(?:\s+\w+::|$)", tags)
+        if mma_match:
+            mma_name = mma_match.group(1).strip()
             subdeck = f"{deck}::{mma_name}"
             logging.info(f"Mapped MMA card to subdeck: {subdeck}")
         else:
